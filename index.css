@@ -1,0 +1,17 @@
+*{
+    /* border: 1px solid red; */
+}
+
+.navbar .Nav_links {
+    text-decoration: underline;
+    text-decoration-color: white; /* Warna garis bawah */
+    text-decoration-thickness: 1px;
+}
+
+.navbar .Link_dropdown {
+    display: flex;
+    align-items: center;
+    height: 30px;
+    padding: 5px;
+    border: 1px solid white;
+}
